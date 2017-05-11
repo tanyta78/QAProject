@@ -1,0 +1,2 @@
+D:\github\QAProject\ProjectTests\obj\Debug\ProjectTests.csproj.App.config
+D:\github\QAProject\ProjectTests\obj\Debug\ProjectTests.csprojResolveAssemblyReference.cache
