@@ -1,0 +1,1 @@
+D:\github\QAProject\NewTestProject\obj\Debug\NewTestProject.csprojResolveAssemblyReference.cache
