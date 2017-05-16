@@ -36,6 +36,7 @@ namespace NewTestProject
         public void NavigateToLoginPage()
         {
             LoginPage LogInPage = new LoginPage(driver);
+
             LogInPage.NavigateTo();
             Assert.IsTrue(LogInPage.LoginButton.Displayed);
         }

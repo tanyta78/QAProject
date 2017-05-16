@@ -79,3 +79,4 @@ D:\github\QAProject\Blog\bin\Microsoft.Owin.Security.Twitter.xml
 D:\github\QAProject\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\github\QAProject\Blog\obj\Debug\Blog.dll
 D:\github\QAProject\Blog\obj\Debug\Blog.pdb
+D:\github\QAProject\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache

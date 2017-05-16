@@ -14,7 +14,8 @@
         {
             get
             {
-
+                //*[@id="loginLink"]
+               
                 this.Wait.Until(w => w.FindElement(By.XPath("/html/body/div[2]/div/div/form/div[4]/div/input")));
                 return this.Driver.FindElement(By.XPath("/html/body/div[2]/div/div/form/div[4]/div/input"));
 
