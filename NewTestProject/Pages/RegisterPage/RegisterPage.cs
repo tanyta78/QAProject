@@ -26,7 +26,7 @@
 
         public void NavigateTo()
         {
-            this.Driver.Navigate().GoToUrl(this.Url);
+            this.Driver.Navigate().GoToUrl("http://localhost:60634/Account/Register/");
             this.Driver.Manage().Window.Maximize();
         }
 
